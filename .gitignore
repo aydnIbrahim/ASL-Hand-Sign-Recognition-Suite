@@ -23,6 +23,7 @@ data/
 data_processed/
 
 run/
+runs/
 
 *.log
 *.tmp
